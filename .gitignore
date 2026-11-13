@@ -1,5 +1,4 @@
-fonts/
-*.py
-banner.html
-assets/_preview_banner.jpg
-assets/banner.png
+assets/_prev_*
+assets/grafica-pixeles.svg
+_prev*.html
+_contrib.json

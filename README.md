@@ -32,6 +32,14 @@ Fundé **Gamora Systems**, con base en Medellín.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
+## Proyectos en números
+
+<p align="center">
+  <img src="assets/grafica-lineas.svg" alt="Líneas de código por proyecto: AesthetiCare 36.982, KanView 20.449, Balance 12.910, Orión 11.685, ReqAI 7.544" width="100%" />
+</p>
+
+Medido sobre los repositorios, sin dependencias ni migraciones: **89.570 líneas de código propio** en cinco sistemas.
+
 ## Proyectos
 
 ### AesthetiCare — SaaS multi-tenant para estudios de estética
