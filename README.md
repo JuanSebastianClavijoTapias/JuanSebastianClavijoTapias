@@ -17,6 +17,8 @@ Diseño y construyo **sistemas de gestión a la medida** para pequeñas y median
 
 Fundé **Gamora Systems**, con base en Medellín.
 
+<p align="center"><img src="assets/pixel-divisor.svg" alt="" width="100%" /></p>
+
 ## Stack con el que trabajo
 
 <p>
@@ -39,6 +41,10 @@ Fundé **Gamora Systems**, con base en Medellín.
 </p>
 
 Medido sobre los repositorios, sin dependencias ni migraciones: **89.570 líneas de código propio** en cinco sistemas.
+
+<p align="center">
+  <img src="assets/grafica-lenguajes.svg" alt="Reparto por lenguaje: Python 48,7 %, HTML 33,2 %, Dart 7,4 %, CSS 6,6 %, JavaScript 4,0 %" width="100%" />
+</p>
 
 ## Proyectos
 
@@ -98,11 +104,19 @@ API con Django REST Framework —vistas basadas en funciones, sin capas de abstr
 
 ## Cómo trabajo
 
-- **Django + PostgreSQL por defecto.** SQLite solo para prototipos. No elijo la tecnología por moda: elijo la que voy a poder mantener en dos años.
-- **Despliegue real en Linux.** Systemd con Gunicorn y Nginx sirviendo estáticos, con HTTPS. No entrego un proyecto que solo corre en `runserver`.
-- **Los archivos no viven en el servidor.** Fotos y documentos van a almacenamiento S3-compatible (Backblaze B2) detrás de Cloudflare. En producción, `MEDIA_ROOT` local es una bomba de tiempo.
-- **Seguridad desde el día uno.** `django-axes` contra fuerza bruta, CSP y cabeceras endurecidas, validación en el backend. El frontend nunca es la única capa.
-- **Cada proyecto se documenta.** Arquitectura, decisiones y por qué se tomó cada una, en Markdown dentro del repo. Es lo primero que leo cuando vuelvo a un proyecto de hace seis meses.
+- <img src="assets/px-terminal.svg" width="15" alt="" /> **Django + PostgreSQL por defecto.** SQLite solo para prototipos. No elijo la tecnología por moda: elijo la que voy a poder mantener en dos años.
+- <img src="assets/px-servidor.svg" width="15" alt="" /> **Despliegue real en Linux.** Systemd con Gunicorn y Nginx sirviendo estáticos, con HTTPS. No entrego un proyecto que solo corre en `runserver`.
+- <img src="assets/px-nube.svg" width="15" alt="" /> **Los archivos no viven en el servidor.** Fotos y documentos van a almacenamiento S3-compatible (Backblaze B2) detrás de Cloudflare. En producción, `MEDIA_ROOT` local es una bomba de tiempo.
+- <img src="assets/px-escudo.svg" width="15" alt="" /> **Seguridad desde el día uno.** `django-axes` contra fuerza bruta, CSP y cabeceras endurecidas, validación en el backend. El frontend nunca es la única capa.
+- <img src="assets/px-doc.svg" width="15" alt="" /> **Cada proyecto se documenta.** Arquitectura, decisiones y por qué se tomó cada una, en Markdown dentro del repo. Es lo primero que leo cuando vuelvo a un proyecto de hace seis meses.
+
+## Actividad
+
+<p align="center">
+  <img src="assets/grafica-pixeles.svg" alt="Contribuciones públicas del último año" width="100%" />
+</p>
+
+La mayor parte de mi trabajo vive en repositorios privados de clientes. Lo que se ve aquí es solo lo público.
 
 ## Contacto
 
