@@ -1,4 +1,12 @@
+assets/fonts/
 assets/_prev_*
 assets/grafica-pixeles.svg
+assets/Portafolio futurista de desarrollo e IA.png
+assets/banner.png
+assets/banner-tuyo.jpg
+assets/aestheticare-citas.png
+assets/aestheticare-finanzas.png
 _prev*.html
 _contrib.json
+*.py
+banner.html
