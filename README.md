@@ -110,6 +110,16 @@ API con Django REST Framework —vistas basadas en funciones, sin capas de abstr
 - <img src="assets/px-escudo.svg" width="15" alt="" /> **Seguridad desde el día uno.** `django-axes` contra fuerza bruta, CSP y cabeceras endurecidas, validación en el backend. El frontend nunca es la única capa.
 - <img src="assets/px-doc.svg" width="15" alt="" /> **Cada proyecto se documenta.** Arquitectura, decisiones y por qué se tomó cada una, en Markdown dentro del repo. Es lo primero que leo cuando vuelvo a un proyecto de hace seis meses.
 
+## El taller
+
+Cuatro momentos que se repiten: el que programa tranquilo, el que se concentra, el que trasnocha por un deploy y el que ve la pantalla en rojo a las 3:12.
+
+<p align="center">
+  <img src="assets/pixel-escenas.png" alt="Cuatro escenas en pixel art: un deploy a las 03:12 con la pantalla en rojo, el editor de día, un CRT de noche y el escritorio de madrugada" width="100%" />
+</p>
+
+Dibujadas a mano a 128×80 píxeles y ampliadas sin filtro: los bloques son píxeles reales, no un efecto aplicado encima.
+
 ## Actividad
 
 <p align="center">
